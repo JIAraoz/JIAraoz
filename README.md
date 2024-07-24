@@ -11,8 +11,8 @@ I'm **Juan Ignacio Araoz**.
 
 ## Technologies & Tools
 - **Frontend:** React, JavaScript, CSS
-- **Backend:** Node.js, Express
-- **Database:** PostgreSQL
+- **Backend:** Node.js, Express, NestJS, TypeScript, JWT
+- **Database:** PostgreSQL, MongoDB
 - **Authentication:** Auth0
 - **Payments:** Stripe
 
